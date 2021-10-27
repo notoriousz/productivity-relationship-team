@@ -1,4 +1,8 @@
+/env
 .env
 env
-/env
-/geral.xlsx
+
+analysts.ini
+diario.csv
+tratamento.ipynb
+*.xlsx
